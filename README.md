@@ -4,8 +4,8 @@ README.md
 - version: 200108
 
 
-![avatar](./src/assets/images/flag2.png)
-![avatar](./src/assets/images/flag3.png)
+![avatar](./src/assets/images/flag2.png)  
+
 
 
 Scavenger Cloud - 垃圾佬云
