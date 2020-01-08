@@ -22,7 +22,8 @@ Step 1
 ## 任务:
 - @karminski-牙医 负责搭建初期 k8s 集群
 - @karminski-牙医 贡献 8 core 16G 虚拟机 x 5
-- @(实习)七月毕业 冯 负责调研网络方案
+- @冯狗蛋 贡献 8 core 8G 物理机 x 1
+- @冯狗蛋 负责调研网络方案
 
 
 ## 集群搭建进度 :
@@ -31,9 +32,9 @@ Step 1
 - 部署 k8s master 在 @karminski-牙医 本地
 - 部署 etcd 在 @karminski-牙医 本地
 - 部署 worker node 在 @karminski-牙医 本地
-- 部署 k8s master 在 @(实习)七月毕业 冯 本地
-- 部署 etcd 在 @(实习)七月毕业 冯 本地
-- 部署 worker node 在 @(实习)七月毕业 冯 本地
+- 部署 k8s master 在 @冯狗蛋 本地
+- 部署 etcd 在 @冯狗蛋 本地
+- 部署 worker node 在 @冯狗蛋 本地
 - 测试集群
 - 给大家访问权限公测
 
