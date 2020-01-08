@@ -5,6 +5,7 @@ README.md
 
 
 ![avatar](./src/assets/images/flag2.png)
+![avatar](./src/assets/images/flag3.png)
 
 
 Scavenger Cloud - 垃圾佬云
